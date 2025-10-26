@@ -46,6 +46,7 @@
 
 .header__logo-image {
     display: block;
+    height: 105px;
 }
 
 .address {
@@ -300,12 +301,6 @@
     align-items: start;
     margin-top: 180px;
     height: 180px;
-}
-
-.address {
-    font-style: normal;
-    line-height: 1.5;
-    font-size: 18px;
 }
 
 .address__link {
