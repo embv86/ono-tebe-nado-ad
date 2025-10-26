@@ -303,6 +303,13 @@
     height: 180px;
 }
 
+.footer__address {
+    text-align: left;
+    font-style: normal;
+    line-height: 1.4;
+    font-size: 18px;
+}
+
 .address__link {
     color: inherit;
     text-decoration: underline;
@@ -325,7 +332,7 @@
 .footer__menu-link {
     color: inherit;
     text-decoration: underline;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .footer__menu-link_active {
